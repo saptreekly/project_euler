@@ -6,4 +6,6 @@ The purpose is to be a part of my portfilio, not for others to find and cheat th
 
 You may find that some answers are poorly optimized. Believe me, I know. Generally speaking, as I get better at coding and at Rust, the higher numbered questions should have better answers to them.
 
+My goal is to not use any help from AI. 
+
 I just like coding and doing Project Euler problems. This is entirely for fun.

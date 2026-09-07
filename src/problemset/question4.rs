@@ -18,7 +18,7 @@ fn check_palindrome(n: i32) -> bool {
     let string_n_rev: String = string_n.chars().rev().collect();
 
     if string_n == string_n_rev {
-        return true
+        return true;
     }
     false
 }
